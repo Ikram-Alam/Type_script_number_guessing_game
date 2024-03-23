@@ -2,9 +2,9 @@
   "name": "ikram-alam-07-number_guessing_game",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.mjs",
   "type": "module",
-  "bin": "index.js",
+  "bin": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
